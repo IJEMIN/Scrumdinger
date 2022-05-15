@@ -15,6 +15,7 @@
 		5ABEB76B2831107300AE2715 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABEB76A2831107300AE2715 /* DailyScrum.swift */; };
 		5ABEB76D283111EE00AE2715 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABEB76C283111EE00AE2715 /* CardView.swift */; };
 		5ABEB76F2831148000AE2715 /* LabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABEB76E2831148000AE2715 /* LabelStyle.swift */; };
+		5ABEB7732831222800AE2715 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABEB7722831222800AE2715 /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		5ABEB76A2831107300AE2715 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		5ABEB76C283111EE00AE2715 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		5ABEB76E2831148000AE2715 /* LabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelStyle.swift; sourceTree = "<group>"; };
+		5ABEB7722831222800AE2715 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				5A099C57282FD6C10056BA7D /* Models */,
 				5A099C49282FD1350056BA7D /* ScrumdingerApp.swift */,
+				5ABEB7722831222800AE2715 /* ScrumsView.swift */,
 				5A099C4B282FD1350056BA7D /* MeetingView.swift */,
 				5A099C4D282FD1380056BA7D /* Assets.xcassets */,
 				5A099C4F282FD1380056BA7D /* Preview Content */,
@@ -160,6 +163,7 @@
 				5ABEB76B2831107300AE2715 /* DailyScrum.swift in Sources */,
 				5A099C59282FD6D60056BA7D /* Theme.swift in Sources */,
 				5A099C4C282FD1350056BA7D /* MeetingView.swift in Sources */,
+				5ABEB7732831222800AE2715 /* ScrumsView.swift in Sources */,
 				5A099C4A282FD1350056BA7D /* ScrumdingerApp.swift in Sources */,
 				5ABEB76F2831148000AE2715 /* LabelStyle.swift in Sources */,
 				5ABEB76D283111EE00AE2715 /* CardView.swift in Sources */,
