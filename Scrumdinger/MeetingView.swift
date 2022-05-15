@@ -43,7 +43,7 @@ struct MeetingView: View {
     }
 }
 
-struct Meeting_Previews: PreviewProvider {
+struct MeetingView_Previews: PreviewProvider {
     static var previews: some View {
         MeetingView()
     }
