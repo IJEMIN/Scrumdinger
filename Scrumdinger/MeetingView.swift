@@ -10,7 +10,7 @@ import AVFoundation
 
 struct MeetingView: View {
     @Binding var scrum: DailyScrum
-    @State var scrumTimer: ScrumTimer = ScrumTimer()
+    @StateObject var scrumTimer: ScrumTimer = ScrumTimer()
     
     private var player: AVPlayer {AVPlayer.sharedDingPlayer}
     
